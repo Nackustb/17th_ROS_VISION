@@ -1,0 +1,13 @@
+/home/nack/桌面/deeplearning/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/watermelon34.jpg
+/home/nack/桌面/deeplearning/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/watermelon03.jpg
+/home/nack/桌面/deeplearning/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/watermelon08.jpg
+/home/nack/桌面/deeplearning/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/watermelon22.jpg
+/home/nack/桌面/deeplearning/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/watermelon51.jpg
+/home/nack/桌面/deeplearning/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/watermelon35.jpg
+/home/nack/桌面/deeplearning/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/watermelon31.jpg
+/home/nack/桌面/deeplearning/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/watermelon02.jpg
+/home/nack/桌面/deeplearning/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/watermelon38.jpg
+/home/nack/桌面/deeplearning/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/watermelon61.jpg
+/home/nack/桌面/deeplearning/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/watermelon05.jpg
+/home/nack/桌面/deeplearning/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/watermelon20.jpg
+/home/nack/桌面/deeplearning/darknet/scripts/VOCdevkit/VOC2007/JPEGImages/watermelon42.jpg

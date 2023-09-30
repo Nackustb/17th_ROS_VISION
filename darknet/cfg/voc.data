@@ -1,0 +1,6 @@
+classes=1 
+train  = /home/nack/桌面/deeplearning/darknet/scripts/2007_train.txt
+valid  = /home/nack/桌面/deeplearning/darknet/scripts/2007_val.txt
+test   =/home/nack/桌面/deeplearning/darknet/scripts/2007_test.txt
+names = /home/nack/桌面/deeplearning/darknet/data/voc.names
+backup = /home/nack/桌面/deeplearning/darknet/backup
