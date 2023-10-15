@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>watermelom23.jpg</filename>
+	<path>/home/nack/桌面/18th_ros/darknet（复件）/scripts/VOCdevkit/VOC2007/JPEGImages/watermelom23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>watermelon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>29</xmin>
+			<ymin>25</ymin>
+			<xmax>275</xmax>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+</annotation>
